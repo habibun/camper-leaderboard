@@ -1,0 +1,19 @@
+.sort {
+  text-decoration: underline;
+}
+
+.sorted::after {
+  content: ' \25bc';
+}
+
+.top-margin {
+  margin-top: 5%;
+}
+
+img {
+  width: 40px;
+  border: 2px solid #006400;
+  border-radius: 4px;
+  max-height: 40px;
+  margin-right: 4px;
+}
